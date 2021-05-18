@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[hello]]>
+    </line>
+    <line>
+      <![CDATA[hellotwo]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2394" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2394" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:15 IST">
+      <class name="com.testing.moduleone.Mymoduleone">
+        <test-method status="PASS" signature="testobject()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="testobject" is-config="true" duration-ms="16" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testobject -->
+        <test-method status="PASS" signature="verification()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="verification" duration-ms="22" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:13 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verification -->
+        <test-method status="PASS" signature="testobject()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="testobject" is-config="true" duration-ms="1" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testobject -->
+        <test-method status="PASS" signature="verifyfour()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="verifyfour" duration-ms="2171" started-at="2021-05-17T12:39:13 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfour -->
+        <test-method status="PASS" signature="testobject()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="testobject" is-config="true" duration-ms="1" started-at="2021-05-17T12:39:15 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testobject -->
+        <test-method status="PASS" signature="verifysix()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="verifysix" duration-ms="6" started-at="2021-05-17T12:39:15 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysix -->
+        <test-method status="PASS" signature="testobject()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="testobject" is-config="true" duration-ms="2" started-at="2021-05-17T12:39:15 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testobject -->
+        <test-method status="PASS" signature="verifytwo()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="verifytwo" duration-ms="10" started-at="2021-05-17T12:39:15 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[hellotwo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifytwo -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.testing.moduleone.Mymoduleone@33f88ab]" name="end" is-config="true" duration-ms="2" started-at="2021-05-17T12:39:15 IST" finished-at="2021-05-17T12:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.testing.moduleone.Mymoduleone -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
